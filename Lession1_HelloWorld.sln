@@ -5,12 +5,6 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lession1_HelloWorld", "Lession1_HelloWorld.csproj", "{2A42443A-A409-4737-86BC-E21664CEA754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packman", "..\Lession1_Packman\PacManConsole-master\GameBase\Packman.csproj", "{51EDDF70-4BAB-4732-BFC5-E3B1F1372FE6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveAsterisk", "..\MoveAstrick\MoveAsterisk.csproj", "{48CA338E-E51F-440A-A8D8-C27D1CA13BDC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveAsterisk2", "..\MoveAstrick2\MoveAsterisk2.csproj", "{E81DE3B3-868E-41C3-BF5F-A4A461EA2FC0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,18 +15,6 @@ Global
 		{2A42443A-A409-4737-86BC-E21664CEA754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A42443A-A409-4737-86BC-E21664CEA754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A42443A-A409-4737-86BC-E21664CEA754}.Release|Any CPU.Build.0 = Release|Any CPU
-		{51EDDF70-4BAB-4732-BFC5-E3B1F1372FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51EDDF70-4BAB-4732-BFC5-E3B1F1372FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51EDDF70-4BAB-4732-BFC5-E3B1F1372FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51EDDF70-4BAB-4732-BFC5-E3B1F1372FE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{48CA338E-E51F-440A-A8D8-C27D1CA13BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48CA338E-E51F-440A-A8D8-C27D1CA13BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48CA338E-E51F-440A-A8D8-C27D1CA13BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48CA338E-E51F-440A-A8D8-C27D1CA13BDC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E81DE3B3-868E-41C3-BF5F-A4A461EA2FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E81DE3B3-868E-41C3-BF5F-A4A461EA2FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E81DE3B3-868E-41C3-BF5F-A4A461EA2FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E81DE3B3-868E-41C3-BF5F-A4A461EA2FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
